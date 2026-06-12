@@ -1,0 +1,9 @@
+name: BoneToBoneBlock
+description: $description
+version: '1.0'
+
+main: me.vihaanvp.boneToBoneBlock.BoneToBoneBlock
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [VihaanVP]
